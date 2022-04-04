@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inthecure
 - 👀 I’m interested in programming and creating interactive stories.
 - 🌱 I’m currently learning the basics at Harvard's CS50.
-- 💞️ I’m looking to collaborate on nothing... I'm not skilled enough to d collaborations yet.
+- 💞️ I’m looking to collaborate on nothing... I'm not skilled enough to do collaborations yet.
 - 📫 How to reach me ddathos@gmail.com
 - 
 <!---
