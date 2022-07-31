@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @inthecure
-- 👀 I’m interested in programming and creating interactive stories.
-- 🌱 I’m currently learning the basics at Harvard's CS50.
-- 💞️ I’m looking to collaborate on nothing... I'm not skilled enough to do collaborations yet.
-- 📫 How to reach me ddathos@gmail.com
+- 👀 I’m interested in programming and web development.
+- 🌱 I’m currently learning the basecs at Harvard's CS50 and Udemy's Web Dev Bootcamp 2022.
+- 📫 How to reach me daniil.vlkv@gmail.com
 - 
 <!---
 inthecure/inthecure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
